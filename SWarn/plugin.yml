@@ -1,0 +1,5 @@
+name: SWarn
+main: ojy\warn\SWarn
+author: ojy
+api: [3.x]
+version: B1
